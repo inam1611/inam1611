@@ -23,7 +23,6 @@ Welcome to my GitHub! I am an AI Engineer specializing in computer vision and mu
 ## 🌌 About Me
 
 - 🔭 I’m currently working on computer vision for UAVs
-- 🌱 I’m currently learning flight mechanics
 - 👯 I’m looking to collaborate on aerial object detection
 - 😄 Pronouns: He/Him
 
@@ -31,9 +30,9 @@ Welcome to my GitHub! I am an AI Engineer specializing in computer vision and mu
 
 ## 🌐 Connect with Me
 
-[![LinkedIn: Muhammad Inam](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/muhammad-inam-268a73311)
-[![Fiverr: Muhammad Inam](https://img.shields.io/badge/-Fiverr-green?logo=fiverr&style=flat-square)](https://www.fiverr.com/s/99EgErx)
-
+[![LinkedIn: Muhammad Inam](https://img.shields.io/badge/-LinkedIn-grey?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/muhammad-inam-268a73311)
+[![Upwork: Muhammad Inam](https://img.shields.io/badge/-Upwork-grey?logo=upwork&style=flat-square)]([https://www.fiverr.com/s/99EgErx](https://www.upwork.com/freelancers/~012b3a8341a0f59152?nav_dir=pop))
+[![Fiverr: Muhammad Inam](https://img.shields.io/badge/-Fiverr-grey?logo=fiverr&style=flat-square)](https://www.fiverr.com/s/99EgErx)
 ---
 
 <!--
