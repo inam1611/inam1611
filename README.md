@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Muhammad Inam
 
-🚀 **AI Engineer | Computer Vision Specialist | Aerospace & MDAO Enthusiast**
+🚀 **AI Engineer | Computer Vision Specialist | Automation Enthusiast**
 
-Welcome to my GitHub! I am an AI Engineer specializing in computer vision and multidisciplinary design, analysis, and optimization (MDAO) within the aerospace industry. My passion lies in applying cutting-edge AI and engineering techniques to solve complex, real-world problems.
+Welcome to my GitHub! I am an AI Engineer specializing in computer vision and automation whether through N8N or custom. My passion lies in applying cutting-edge AI and engineering techniques to solve complex, real-world problems.
 
 ---
 
 ## 🛠️ Core Skills
 
 - **Programming:** Python
-- **AI & Machine Learning:** Deep Learning, Computer Vision, Model Development
+- **AI & Machine Learning:** Deep Learning, Computer Vision, Model Development, N*N
 - **Aerospace Engineering:** Simulation, Analysis, Multidisciplinary Design & Optimization (MDAO), CAD
 
 ---
